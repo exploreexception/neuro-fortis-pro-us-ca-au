@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/neuro-fortis-pro-us-ca-au/sitemap.xml
